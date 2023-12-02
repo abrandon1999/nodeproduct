@@ -1,4 +1,4 @@
-.prettierrc
+
 project-notes
 node_modules/
-.vscode/
+dist/
